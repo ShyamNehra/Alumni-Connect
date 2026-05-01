@@ -54,7 +54,7 @@ Use these accounts to explore different role permissions:
 
 1. **Clone and install**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ShyamNehra/Alumni-Connect
    cd alumni-connect
    npm install
    ```
